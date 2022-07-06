@@ -1,0 +1,270 @@
+# Full list of existing competencies
+
+This list is intended to streamline the tree of competencies that exist in modern software development.
+
+The list is intended to be exhaustive and able to assess the qualifications of a specialist and the needs of clients that may arise.
+
+The list may be dynamically expanded depending on the changing conditions in the software development market. The emergence and popularization of new technologies as well as the obsolescence of old technologies. If you have the opportunity to help in the formation of the list and you know about a technology that is not in this list or you have comments on the information in the list, send an email to [contact@itwis.org](mailto://contact@itwis.org )
+
+There is a special emoji in the list, designed to give some clarification regarding some technologies:
+- 🔧 This technology participating in [iTwis skill bubble](../regulations).
+- 👑 This technology by which the company provides the service. The criterion for falling into this category is that our team has specialists in this technology and the portfolio contains works in which this technology was used. By clicking on the icon, you can go to the portfolio with examples of work on this technology.
+- 🔭 This technology designated for priority development in the company. Most likely, we are confident that we are ready to start providing this technology as a service and are now looking for our first job - a good reason to launch a project with a good discount!
+- [0️⃣..9️⃣] Some technologies are reused in the classification in several subsections. Such technologies are marked with the same number in all places of use. One or two numeric emojis are used for this.
+- 💀 A hopeless dying technology.
+
+The list is a formal and purely utilitarian tool compiled solely for the purpose of use within the company, taking into account its goals and does not claim to be objective. Some versions of technologies are indicated by separate classification items, and some are combined. Here we were guided by the proximity of versions based on the experience gained with these technologies.
+
+### List of technologies
+
+- Programming languages
+  - 👑 HTML / CSS 
+    - 👑 HTML 5 
+    - 🔭 HAML 
+    - 👑 CSS 3 
+    - 👑 BEM
+    - JSX / Styled JSX
+    - 👑 Sass
+    - 👑 SCSS / Less / Styles
+    - Tailwind CSS
+  - PHP
+    - Frameworks
+      - 👑 Codeigniter
+      - 👑 Laravel
+      - 🔭 Symphony
+      - Zend 1
+      - Zend 2/3
+      - Yii 1
+      - 👑 Yii 2/3
+      - Phalcon
+      - PHPixie
+      - Laminas
+      - CakePHP
+      - FuelPHP
+    - CMS
+      - 👑 [WordPress](https://wordpress.com/)
+        - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/)
+        - [WooCommerce](https://woocommerce.com/)
+        - [Wordfence Security](https://www.wordfence.com/)
+        - [Contact Form](https://contactform7.com/)
+        - [Elementor](https://elementor.com/)
+        - WPForms
+      - Drupal 5
+      - Drupal 6
+      - 👑 Drupal 7
+      - Drupal 8/9
+      - 👑 Magento
+        - 👑 [ScandiPWA](https://scandipwa.com/) 
+      - Joomla
+      - October
+      - OpenCart
+      - MODX
+      - ExpressionEngine
+      - Grav
+      - PyroCMS
+      - Craft CMS
+      - TYPO3
+      - Concrete CMS
+      - PrestaShop
+    - Libraries
+      - 👑 Monolog
+      - 👑 Guzzle
+      - Assert
+      - 👑 PHPUnit
+      - 👑 SwiftMailer
+      - Email-validator
+      - 👑 PHP dotenv
+      - Twig
+      - Faker
+      - PHPsecLib
+      - Predis
+      - AMQP
+      - Twill
+      - 👑 OAuth 2.0
+      - Rector
+      - 👑1️⃣ Swagger
+    - Standards
+      - 👑 PSR
+  - JavaScript like
+    - JavaScript / TypeScript
+      - Frameworks (Frontend)
+        - 👑 Angular
+          - 👑 [Ionic](https://ionicframework.com/) 
+        - 👑 AngularJs
+        - 👑 React
+          - 🔭2️⃣ Next.js
+          - 🔭 React Native
+        - 👑 Vue.js
+        - 🔭 Ember
+        - 🔭 Svelte
+        - Mithril.js
+        - Polymer
+      - Frameworks (Backend)
+        - 👑 Express.js
+        - 🔭 Meteor
+        - 🔭 nest
+        - 🔭 Sails
+        - Total.js
+        - hapi
+        - Feather.js
+        - LoopBack
+        - ADONIS
+        - DERBY 
+        - 🔭2️⃣ Next.js
+      - Libraries
+      - Build tools
+        - 👑 NPM
+        - 👑 Webpack
+        - Grunt
+        - Gulp
+        - ESBuild
+    - CoffeeScript
+    - Dart
+  - Python
+    - Frameworks
+      - 👑 Django
+      - 🔭 Flask
+      - CherryPy
+      - Masonite
+      - TurboGears
+      - Web2py
+      - Dash Enterprise
+      - Giotto
+      - Grok
+      - Pylons
+      - Reahl
+      - wheezy.web
+      - Zope
+    - CMS
+      - Jam.py
+    - Libraries
+      - Requests
+  - Ruby
+  - Go
+  - Java like
+    - Java EE
+    - Java Android
+    - Kotlin
+    - Scala
+    - Clojure
+  - C like
+    - C / C++
+    - C#
+    - Objective C 
+  - Swift
+  - R
+  - Rust
+  - Lua
+  - Delphi / Pascal
+  - Perl
+  - Erlang
+  - Haskel
+  - F#
+  - Elixir
+  - 💀 COBOL
+  - 💀 FORTRAN
+  - Assembler
+- Database management systems
+  - SQL 
+    - 👑 MySQL / MariaDB
+    - 👑 PostgreSQL
+    - 👑 SQLite
+    - MS SQL
+    - Cassandra
+    - [Hazelcast](https://hazelcast.com/)
+  - Document-oriented
+    - 👑 MongoDB
+    - [Couchbase](https://www.couchbase.com/)
+    - [HBase](https://hbase.apache.org/)
+  - Key-value store 
+    - 👑 Redis
+    - 👑 Memcached
+  - Graph-oriented
+    - Neo4j
+- Web servers
+  - 👑 Apache 2
+  - 👑 Nginx
+- Containerization / Virtualization
+  - 👑 Docker
+  - 🔭 Kubernetes
+  - Vagrant
+- CI / CD
+  - 👑 Jenkins
+  - TeamCity
+  - Travis
+  - GitHub Actions
+  - AWS CodeDeploy
+- Message Managers
+  - 👑3️⃣ RabbitMQ
+  - Kafka
+  - Apache ActiveMQ
+  - NATS Messaging
+- Queue managers
+  - 👑3️⃣ RabbitMQ
+  - Gearman
+  - Celery
+- Search engines
+  - 👑 Elasticsearch
+  - Sphinx
+- Cloud Solutions
+  - AWS
+    - 👑 EC2
+    - 👑 S3
+    - 👑 Route 53
+    - SES
+  - DigitalOcean
+  - Azure
+  - Firebase
+  - Supabase
+- Protocols and standards
+  - 👑 PWA
+  - 👑 WebRTC
+  - 👑 RPC
+  - 👑 gRPC
+  - 👑 RESTful
+  - 👑 GraphQL
+- Documentation Libraries
+  - 👑1️⃣ Swagger
+  - JSDoc
+  - jGrouseDoc (jGD)
+  - YUIDoc
+  - Docco
+  - PHPDoc
+- Services
+  - Email providers
+    - 👑 Mailchimp
+    - Mailgun
+    - SendPulse
+    - SendGrid
+  - Payment systems
+  - Receiving sending SMS
+  - Logging
+  - Monitoring
+    - Grafana
+    - Prometheus
+    - Kibana
+- IDE
+  - 👑 Intellij IDEA
+  - 👑 VS code
+  - Aptana
+  - Eclips
+  - MS Visual Studio
+  - 👑 vim
+- OS
+  - Windows
+  - Linux
+  - FreeBSD
+  - MacOS
+  - iOS
+  - Android
+  - [KolibriOS](https://kolibrios.org/)
+- Blockchain & DeFi
+  - 👑 Solidity
+  - 👑 MetaMask
+- Game engines
+  - CryEngine
+  - Unreal Engine
+  - Unity 
+- Other
+  - ZooKeeper
+  - Logstash
