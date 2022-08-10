@@ -176,6 +176,7 @@
     - 👑 MongoDB
     - [Couchbase](https://www.couchbase.com/)
     - [HBase](https://hbase.apache.org/)
+    - [Fauna DB](https://fauna.com/)
   - Key-value store 
     - 👑 Redis
     - 👑 Memcached
@@ -194,6 +195,7 @@
   - Travis
   - GitHub Actions
   - AWS CodeDeploy
+  - [Netlify](https://www.netlify.com/)
 - Менеджеры сообщений
   - 👑3️⃣ RabbitMQ
   - Kafka

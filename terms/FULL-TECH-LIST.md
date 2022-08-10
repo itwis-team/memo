@@ -176,6 +176,7 @@ The list is a formal and purely utilitarian tool compiled solely for the purpose
     - 👑 MongoDB
     - [Couchbase](https://www.couchbase.com/)
     - [HBase](https://hbase.apache.org/)
+    - [Fauna DB](https://fauna.com/)
   - Key-value store 
     - 👑 Redis
     - 👑 Memcached
@@ -194,6 +195,7 @@ The list is a formal and purely utilitarian tool compiled solely for the purpose
   - Travis
   - GitHub Actions
   - AWS CodeDeploy
+  - [Netlify](https://www.netlify.com/)
 - Message Managers
   - 👑3️⃣ RabbitMQ
   - Kafka
