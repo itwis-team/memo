@@ -145,6 +145,15 @@ The list is a formal and purely utilitarian tool compiled solely for the purpose
     - Java EE
     - Java Android
     - Kotlin
+      - 👑 Coroutines
+      - Network
+        - Retrofit
+        - OkHttp
+        - Apollo
+        - Data
+          - Moshi
+          - JSON
+          - GSON
     - Scala
     - Clojure
   - C like
@@ -172,6 +181,7 @@ The list is a formal and purely utilitarian tool compiled solely for the purpose
     - MS SQL
     - Cassandra
     - [Hazelcast](https://hazelcast.com/)
+    - Room
   - Document-oriented
     - 👑 MongoDB
     - [Couchbase](https://www.couchbase.com/)
@@ -196,6 +206,9 @@ The list is a formal and purely utilitarian tool compiled solely for the purpose
   - GitHub Actions
   - AWS CodeDeploy
   - [Netlify](https://www.netlify.com/)
+  - Koin
+  - Dagger2
+  - Hilt
 - Message Managers
   - 👑3️⃣ RabbitMQ
   - Kafka
@@ -208,6 +221,53 @@ The list is a formal and purely utilitarian tool compiled solely for the purpose
 - Search engines
   - 👑 Elasticsearch
   - Sphinx
+- Android
+  - Android SDK
+  - SingleActivity
+  - Architecture
+    - 👑 MVVM
+    - MVP
+    - MVC
+    - MVI
+  - Layout
+    - XSML
+    - Compose
+    - Litho
+    - CustomView
+  - SharedPreference
+  - Jetpack
+  - Android Api/Features
+    - Geolocation
+    - Biometrics (Fingerprint)
+    - Bluetooth 
+    - Internet connection
+    - Camera
+    - Microphone
+    - Language localization
+    - Application theme
+  - File Manager (.dox, .pdf, etc.)
+  - Material libraries
+  - VebView
+  - Android Architecture Components
+    - Room
+    - Lifecycle
+    - ViewModel
+    - LiveData
+    - Data binding
+    - Paging
+    - WorkManager
+    - Navigate
+      - 👑 Android Navigate Component
+      - Cicerone
+  - Image Loading Libraries
+    - 👑 Picasso
+    - 👑 Glide
+    - Fresco
+    - COIL
+  - Test
+    - Espresso
+    - Mockito
+    - JUnit 4
 - Cloud Solutions
   - AWS
     - 👑 EC2
@@ -245,6 +305,8 @@ The list is a formal and purely utilitarian tool compiled solely for the purpose
     - Grafana
     - Prometheus
     - Kibana
+  - Google Play Services Map
+  - Firebase
 - IDE
   - 👑 Intellij IDEA
   - 👑 VS code
@@ -252,6 +314,7 @@ The list is a formal and purely utilitarian tool compiled solely for the purpose
   - Eclips
   - MS Visual Studio
   - 👑 vim
+  - Android Studio
 - OS
   - Windows
   - Linux
@@ -270,3 +333,4 @@ The list is a formal and purely utilitarian tool compiled solely for the purpose
 - Other
   - ZooKeeper
   - Logstash
+  - Lint
