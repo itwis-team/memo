@@ -18,8 +18,8 @@
 - Ценообразование
 
 ### Должностные инструкции
-- Разработчик(./instructions/DEVELOPER.md)
+- [Разработчик](./instructions/DEVELOPER.md)
 - Технический лидер
-- Менеджер проектов
+- [Менеджер проектов](./instructions/PROJECT-MANAGER.md)
 - [Менеджер по работе с клиентами](./instructions/SALES-MANAGER.md)
 - Начальник отдела
